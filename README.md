@@ -1,0 +1,2 @@
+# alphaomegainfo
+site inicial 
